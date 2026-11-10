@@ -5,3 +5,5 @@ testing, change management and Git workflows.
 
 Name: Andrea Guillén Fernández-Santamaría
 Professor: Richard Aviles Lopez
+
+Edited from GitHub web interface.
